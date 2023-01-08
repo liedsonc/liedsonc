@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Liedson Correia
-- 🌱 I’m currently learning react.js
 - 📫 How to reach me:
 - Instagram: @correia_miles --> https://www.instagram.com/correia_miles/
-- E-mail: liedsoncanal@gmail.com 
+- E-mail: liedsonpt@outlook.pt 
 - Facebook: Liedson Correia --> https://www.facebook.com/correia.liedson
 
