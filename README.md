@@ -4,3 +4,4 @@
 - E-mail: liedsonpt@outlook.pt 
 - Facebook: Liedson Correia --> https://www.facebook.com/correia.liedson
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
