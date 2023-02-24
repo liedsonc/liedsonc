@@ -5,3 +5,4 @@
 - Facebook: Liedson Correia --> https://www.facebook.com/correia.liedson
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liedsonc&left_color=green&right_color=red)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liedsonc)](https://github.com/liedsonc)
