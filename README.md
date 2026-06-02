@@ -69,20 +69,14 @@ const liedson = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liedsonc&layout=compact&theme=dark&bg_color=0d1117&title_color=7df5c0&border_color=21262d&text_color=c9d1d9)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=liedsonc&theme=dark&background=0d1117&border=21262d&ring=238b62&fire=7df5c0&currStreakLabel=7df5c0)](https://git.io/streak-stats)
-
 </div>
 
 ---
 
 ### 🤝 Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liedsoncorreia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liedsonc@icloud.com)
-
-</div>
 
 ---
 
