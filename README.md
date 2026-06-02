@@ -14,7 +14,7 @@ const liedson = {
   location:   "Bragança, Portugal 🇵🇹  ·  Open to remote / relocation (EU)",
   role:        "Full-Stack Developer @ The Coding Machine",
   focus:      ["SaaS platforms", "multi-tenant systems", "auth flows", "API integrations"],
-  currentlyLearning: ["Rust", "LLM-assisted development"],
+  interest: ["Rust", "LLM's", "Optimization", "Music"],
   available:   true,
 };
 ```
@@ -46,30 +46,6 @@ const liedson = {
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏫 **Multi-tenant SaaS** | Driving school platform — role-based access, tenant isolation, billing | Laravel · Vue · Supabase |
-| 🚌 **Fleet Tracker** | Real-time public transport & fleet tracking with route visualisation | React · Node.js · REST |
-| 🎟 **E-Ticketing Platform** | Event management with QR validation and analytics dashboard | Next.js · TypeScript · PHP |
-| 🔐 **Auth Systems** | Secure OAuth, MFA & session-management flows | Supabase · Symfony · Docker |
-| 🎓 **Video Learning Platform** | Video delivery and educational experiences | React · Laravel |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Liedson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liedsonc&show_icons=true&theme=dark&bg_color=0d1117&title_color=7df5c0&icon_color=238b62&border_color=21262d&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liedsonc&layout=compact&theme=dark&bg_color=0d1117&title_color=7df5c0&border_color=21262d&text_color=c9d1d9)
-
-</div>
 
 ---
 
